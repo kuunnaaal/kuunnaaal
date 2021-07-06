@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html>
 <h2 style="color: red;">CatPhotoApp</h2>
 <main>
   <p>Click here to view more <a href="#">cat photos</a>.</p>
@@ -31,4 +29,4 @@
     <button type="submit">Submit</button>
   </form>
 </main>
-</html>
+
